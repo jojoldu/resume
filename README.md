@@ -5,15 +5,11 @@
 Web Developer
 ----------------
 
-
-<img style="float: left;" src="./images/창천항로_small.jpg">
-
 &nbsp;&nbsp; Phone : 010-xxxx-xxxx <br/>
 &nbsp;&nbsp; Email : jojoldu@gmail.com <br/>
 &nbsp;&nbsp; Blog : http://jojoldu.tistory.com/ <br/>
 &nbsp;&nbsp; Github : https://github.com/jojoldu <br/>
 
-<br/><br/><br/><br/>
 Summary
 ---------
 3년차 웹 개발자로 SI와 포털에서 개발 및 배포/운영 경험이 있습니다.
@@ -74,6 +70,7 @@ Experience
 
 * 사내 PMS (프로젝트 관리 시스템) 개발 및 개선
 * Automall (자동) 프로젝트 참여 및 개발
+
 Education
 ---------
 2016.07 ~ 2016.08 : 패스트캠퍼스 자바 웹 프로그래밍 CAMP <br/>
